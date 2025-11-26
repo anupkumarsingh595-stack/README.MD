@@ -1,41 +1,17 @@
 # 🚀 Network Project Ideas (100+ Real-World Projects)
 
 A curated collection of **100 practical network engineering projects** designed for  
-**CCNA students, Network Engineers, NOC/SOC roles**, and complete beginners.
-
-This repository covers:
-
--## 📚 Project Categories (Click to Open)
-
-<p align="center">
-  <a href="https://github.com/anupkumarsingh595-stack/README.MD/blob/main/README.md?plain=1#-basic-networking">
-    <img src="https://img.shields.io/badge/VIEW%20FULL%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-## 📚 Project Categories (Click to Open)
-
-### 🔵 [**Basic Networking**](https://github.com/anupkumarsingh595-stack/README.MD/blob/main/README.md?plain=1#-basic-networking)  
-Foundational beginner-friendly projects.
-
-### 🟣 [**Advanced Networking**](https://github.com/anupkumarsingh595-stack/README.MD/blob/main/README.md?plain=1#-advanced-networking)  
-Enterprise-level routing, switching & architecture.
-
-### 🟠 [**Wireless Networking**](https://github.com/anupkumarsingh595-stack/README.MD/blob/main/README.md?plain=1#-wireless-networking-projects)  
-WiFi, wireless security, AP, monitoring projects.
-
-### 🔴 [**Network Security**](https://github.com/anupkumarsingh595-stack/README.MD/blob/main/README.md?plain=1#-network-security-projects)  
-Firewall, IDS/IPS, SIEM, Anti-malware projects.
-
-### 🟢 [**Monitoring & Automation**](https://github.com/anupkumarsingh595-stack/README.MD/blob/main/README.md?plain=1#-network-management-projects)  
-SNMP, Python automation, dashboards, monitoring.
-
-### 🟡 [**Virtualization & Simulation**](https://github.com/anupkumarsingh595-stack/README.MD/blob/main/README.md?plain=1#-network-simulation-projects)  
-VLAN, VRF, SDN, network simulator & virtual labs.
+**CCNA students, Network Engineers, NOC/SOC roles**, and complete beginners
+## 📋 Table of Contents:
+-**Basic Networking** 
+-**Advanced Networking**  
+-**Wireless** 
+-**Network Security** 
+-**Monitoring & Automation** 
+-**Virtualization & Simulation**
 
 
 
----
 
 ## 📘 Basic Projects (Beginner Level)
 
